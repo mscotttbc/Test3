@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="Test2 Table" language="en" table="x_tbn_test2_table">
+    <sys_documentation element="" label="Test2" language="en" table="x_tbn_test2_test2">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Test2 Table</label>
+            <label>Test2</label>
             <language>en</language>
-            <name>x_tbn_test2_table</name>
-            <plural>Test2 Tables</plural>
+            <name>x_tbn_test2_test2</name>
+            <plural>Test2s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>snmscott</sys_created_by>
-            <sys_created_on>2017-05-19 16:59:26</sys_created_on>
+            <sys_created_on>2017-05-19 17:04:48</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
-            <sys_id>26a1b28e1376b240165fb2d96144b059</sys_id>
+            <sys_id>55e2320213b6b240165fb2d96144b0b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Test2 Table</sys_name>
+            <sys_name>Test2</sys_name>
             <sys_package display_value="Test2" source="x_tbn_test2">0aa1fa4e1376b240165fb2d96144b072</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Test2">0aa1fa4e1376b240165fb2d96144b072</sys_scope>
-            <sys_update_name>sys_documentation_x_tbn_test2_table__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_tbn_test2_test2__en</sys_update_name>
             <sys_updated_by>snmscott</sys_updated_by>
-            <sys_updated_on>2017-05-19 16:59:26</sys_updated_on>
+            <sys_updated_on>2017-05-19 17:04:48</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

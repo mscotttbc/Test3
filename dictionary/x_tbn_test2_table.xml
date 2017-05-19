@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="Test2 Table" max_length="40" name="x_tbn_test2_table" type="collection">
-        <element label="Test" max_length="100000" name="test" type="string"/>
-    </element>
-</database>
